@@ -1,0 +1,37 @@
+4Defaut.png : nous a été donné par les professeurs durant notre parcours scolaire
+aide.png : https://www.publicdomainpictures.net/fr/view-image.php?image=255961&picture=bouton-d39aide
+Animer.png : nous a été donné par les professeurs durant notre parcours scolaire
+canon.png : https://www.pinclipart.com/pindetail/oRwx_medieval-clipart-cannon-cartoon-cannon-transparent-background-png/
+copier.png : https://publicdomainvectors.org/fr/gratuitement-des-vecteurs/Graphiques-vectoriels-de-signe-pour-copier-coller/21290.html
+crayon.png : https://pixabay.com/fr/vectors/crayon-instrument-d-%C3%A9criture-mine-337302/
+droite.png : https://icon-icons.com/fr/icone/%C3%A0-gauche-fl%C3%A8che-mince-symbole-de-circulaire-bouton/80134
+edit.png : https://pixabay.com/fr/vectors/papier-crayon-%C3%A9crit-312111/
+essayer.png : https://www.pngocean.com/search?png=circulo
+filet.png : https://pixabay.com/fr/vectors/panier-de-basket-panier-basket-ball-157846/
+fondEcranBac.jpg : http://www.basketball.qc.ca/fr/page/officiels/dimensions_et_reglementation.html
+fondEcronJeux.jpg : https://www.piqsels.com/fr/public-domain-photo-skwma
+fondPrincipal.jpg : https://www.needpix.com/photo/725080/outdoor-basketball-rim-net-sport-basketball-recreation-game-basket-ball
+gauche.png : https://icon-icons.com/fr/icone/%C3%A0-gauche-fl%C3%A8che-mince-symbole-de-circulaire-bouton/80134
+info.png : https://commons.wikimedia.org/wiki/File:Livre_ouvert.svg
+Menu aide-1.jpg : capture d'écran par Jason Brutus
+Menu aide-2.jpg : capture d'écran par Jason Brutus
+Menu aide-3.jpg : capture d'écran par Jason Brutus
+Menu aide-4.jpg : capture d'écran par Jason Brutus
+Menu aide-5.jpg : capture d'écran par Jason Brutus
+Menu aide-6.jpg : capture d'écran par Jason Brutus
+ordinateur.png : https://pixabay.com/fr/vectors/dessin-anim%C3%A9-ordinateur-tooned-dans-2026805/
+pasMusique.png : https://pixabay.com/fr/vectors/croix-red-d-alerte-erreur-157492/
+PauseProchaineImage.png : nous a été donné par les professeurs durant notre parcours scolaire
+plus.png : https://commons.wikimedia.org/wiki/File:Plus_font_awesome.svg
+poubelle.png : https://fr.wikipedia.org/wiki/Fichier:Gnome-edit-delete.svg
+Recommencer.png : nous a été donné par les professeurs durant notre parcours scolaire
+retour.png : https://fr.wikipedia.org/wiki/Fichier:Arrowleft_svg.svg
+sauver.png : https://www.pngocean.com/gratis-png-clipart-wuotk
+son.png : https://en.wikipedia.org/wiki/File:Icon_sound_loudspeaker.svg
+supprimer.png : https://pixabay.com/fr/vectors/interdite-interdit-aucun-147408/
+triche.png : https://fr.wikipedia.org/wiki/Fichier:SVG_black_joker.svg
+aimant.wav : créé par James Brutus
+canon.wav : créé par Voahary Estelle Rajerison
+collision.wav : créé par Voahary Estelle Rajerison
+gagner.wav : https://lasonotheque.org/detail-0236-cris-et-applaudissements-d-ados-1.html
+perdu.wav : https://lasonotheque.org/detail-0489-rire-strident.html
